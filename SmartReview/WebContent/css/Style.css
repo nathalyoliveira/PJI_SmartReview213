@@ -1,0 +1,161 @@
+@charset "UTF-8";
+
+*{
+		width: 400px;
+		padding: 10px;
+		margin: auto;
+	}
+	
+	body{
+		margin: auto;
+		background-image: linear-gradient(to bottom, #06203B, #223D58, #47657D, #7090A7);
+		background-attachment: fixed;
+		
+	}
+	
+	h1{ 
+		background-color:white;
+		width: 390px;
+		border-radius: 10px;
+		box-shadow: 5px 5px 15px #041526;
+		face: Times New Roman ;
+		font-size: 50px ;
+		color: #223D58;
+		box-shadow: 5px 5px 15px #010e1b5e;
+		top:50x;
+	}
+	h2{
+		text-align: center;
+		color: white;
+		
+	}
+	
+	form input{ 
+		width: 350px;
+		padding: 20px;
+		display: block;	
+		color: #D1D8EB;
+		background-color: transparent;
+		border-radius: 10px;
+		border-color: #7090A7;	
+		border: 1px solid #7090A7;
+		box-shadow: 2px 2px 4px  #06203B;
+	}
+	form textarea{ 
+		width: 350px;
+		padding: 20px;
+		display: block;
+		color: #D1D8EB;	
+		background-color: transparent;
+		border-radius: 10px;
+		border-color: #7090A7;
+		box-shadow: 2px 2px 4px  #06203B;
+	}
+	
+	.botao{
+		border-radius: 10px;
+		background-color: #06203b;
+		color: white;
+		width: 155px;
+		height: 40px;
+		cursor: pointer;
+		text-align: center;
+		font-size: 17px;
+		height: auto;
+		box-shadow: 2px 2px 3px  black;
+		border-color: #06203b;
+	}
+	
+	#msgErro{
+		text-align: center;
+		color: white;
+		display: block;
+	}
+	
+	.menuBar{
+		color: white;
+		text-align: right;
+		height:15px;
+    	float: right;
+   		margin-right:auto;
+   		margin-left: auto;
+    	padding-left:0.5%;
+    	background-color: black;
+    	box-shadow: 1px 1px 2px  #7A8893;
+    	cursor: pointer;
+    	width: 50px;
+    	border-radius: 10px;
+    	position: absolute;
+		top: 100px;
+		right: -50px;	
+	}
+	.fecharbtn{
+		color: white;
+		text-align: right;
+	}
+	
+	#paginaInicial *{
+		margin:auto;
+		margin-color: black;
+		padding: 20px;
+		display: block;	
+	}
+	
+	hr{
+		background-image: linear-gradient(to right, #7090A7, #47657D, #223D58,#06203B);
+		width: 350px;
+	}
+	p{
+		background-image: linear-gradient(to right, #06203B, #223D58, #47657D, #7090A7);
+		color:white;
+		width: 350px;
+		height: 50px;
+		display: block;
+		text-align: justify;
+		font-size: 17px;	
+	}
+	
+		#escolha *{
+		display: block;
+		width: 350px;
+		height: 60px;
+		color: #7A8893;	
+		background-color: transparent;
+		border-radius: 10px;
+		border-color: #7090A7;
+		
+	}
+	
+	#alternativas *{
+		display: block;
+	}
+	label{
+		color:white;
+	}
+	for{
+		color:white;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
